@@ -2,4 +2,3 @@ jan
 feb
 march
 april
-may
