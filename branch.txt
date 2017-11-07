@@ -1,3 +1,4 @@
 a
 b
 branch2
+text added to test
